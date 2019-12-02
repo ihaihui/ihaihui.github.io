@@ -1,2 +1,2 @@
-
-web site
+# web
+The official website of a company
